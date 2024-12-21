@@ -2,7 +2,7 @@
 name = "metrsd_client"
 version = "0.5.4"
 edition = "2021"
-authors = ["nanocl contributors <team@next-hat.com>"]
+authors = ["nanocl contributors <team@anonkey.com>"]
 description = "The Metrs daemon api client"
 readme = "readme.md"
 license = "MIT OR Apache-2.0"
